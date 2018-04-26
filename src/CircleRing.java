@@ -9,7 +9,7 @@ public class CircleRing {
     public static void main(String[] args) throws Exception {
 
         // 1. Make a new Robot
-
+    	
 
        //  2. Set your robot’s position to x=150 and y=200
 
