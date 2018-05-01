@@ -10,7 +10,7 @@ public class CircleRing {
 
         // 1. Make a new Robot
     	Robot rob = new Robot();
-
+    	rob.setSpeed(100);
        //  2. Set your robot’s position to x=150 and y=200
     	rob.setX(150);
     	rob.setY(200);
